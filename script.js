@@ -11,3 +11,6 @@ console.log('');
 console.log('B');
 console.log(b);
 console.log(b.toISOString());
+
+const today = new Data();
+console.log(today);
